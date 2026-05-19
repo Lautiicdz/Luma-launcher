@@ -1,8 +1,6 @@
-cat > Cargo.toml << 'EOF'
 [package]
 name = "luma-launcher"
 version = "1.0.0"
 edition = "2021"
 
 [dependencies]
-EOF
